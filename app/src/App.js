@@ -8,6 +8,7 @@ import {
 
 import "./App.css";
 import "../node_modules/bootswatch/dist/sandstone/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 //Nav
 import Nav from "./components/Nav";
